@@ -13,8 +13,6 @@ http://93.157.62.180/Euronews/index.m3u8
 http://93.157.62.180/TipTV/index.m3u8
 #EXTINF:-1,Klan Macedonia
 http://93.157.62.180/KlanMacedonia/index.m3u8
-#EXTINF:0,Disney Channel
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059
 #EXTINF:-1,Scan Tv
 http://93.157.62.180/ScanTV/index.m3u8
 #EXTINF:-1,T7
