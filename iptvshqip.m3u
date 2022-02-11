@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:0,Vision Plus
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1026
-#EXTINF:0,RTSH 24
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1031
-#EXTINF:0,RTSH Sport
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1033
-#EXTINF:0,Alsat M
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1037
-#EXTINF:0,EuroNews Albania
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
-#EXTINF:0,Tip TV
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1041
-#EXTINF:0,Klan Macedonia
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1054
+#EXTINF:-1,Vizion Plus
+http://93.157.62.180/VizionPlus/index.m3u8
+#EXTINF:-1,Rtsh 24
+http://93.157.62.180/RTSH24/index.m3u8
+#EXTINF:-1,RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1,Alsat M
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:-1,Euronews Albania
+http://93.157.62.180/Euronews/index.m3u8
+#EXTINF:-1,Tip Tv
+http://93.157.62.180/TipTV/index.m3u8
+#EXTINF:-1,Klan Macedonia
+http://93.157.62.180/KlanMacedonia/index.m3u8
 #EXTINF:0,Disney Channel
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1059
-#EXTINF:0,Scan TV
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1065
-#EXTINF:0,T7
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1066
-#EXTINF:0,Living Hd
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1069
-#EXTINF:0,Smile
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1076
-#EXTINF:0,RTK 1
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1085
+#EXTINF:-1,Scan Tv
+http://93.157.62.180/ScanTV/index.m3u8
+#EXTINF:-1,T7
+http://93.157.62.180/T7/index.m3u8
+#EXTINF:-1,Living HD
+http://93.157.62.180/LivingHD/index.m3u8
+#EXTINF:-1,Smile
+http://93.157.62.180/TringSmile/index.m3u8
+#EXTINF:-1,Rtk 1
+http://93.157.62.180/RTK1/index.m3u8
 #EXTINF:-1,Mimi TV
 http://62.210.152.92:25461/kanale2/Ass/18
 #EXTINF:-1,Femije
@@ -47,16 +47,12 @@ http://62.210.152.92:25461/kanale2/Ass/40
 http://62.210.152.92:25461/kanale2/Ass/42
 #EXTINF:-1,NEWS 24
 http://62.210.152.92:25461/kanale2/Ass/45
-#EXTINF:-1,Peace TV
-http://62.210.152.92:25461/kanale2/Ass/52
 #EXTINF:-1,TV Dielli
 http://62.210.152.92:25461/kanale2/Ass/53
 #EXTINF:-1,TDC
 http://62.210.152.92:25461/kanale2/Ass/60
 #EXTINF:-1,Natyra
 http://62.210.152.92:25461/kanale2/Ass/66
-#EXTINF:-1,TV Shenja
-http://62.210.152.92:25461/kanale2/Ass/75
 #EXTINF:-1,Big B
 http://62.210.152.92:25461/kanale2/Ass/76
 #EXTINF:-1,BESA
@@ -75,16 +71,10 @@ http://93.157.62.180/RTSH1/index.m3u8
 http://93.157.62.180/RTSH2/index.m3u8
 #EXTINF:-1,Rtsh 3
 http://93.157.62.180/RTSH3/index.m3u8
-#EXTINF:-1,Rtsh Agro
-http://93.157.62.180/RTSHAgro/index.m3u8
 #EXTINF:-1,Rtsh Shkollë
 http://93.157.62.180/RTSHShkole/index.m3u8
 #EXTINF:-1,Rtsh Sport
 http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:-1,Rtsh Kukësi
-http://93.157.62.180/RTSHKukesi/index.m3u8
-#EXTINF:-1,Ora News
-http://93.157.62.180/OraNews/index.m3u8
 #EXTINF:-1,Tring Comedy
 http://93.157.62.180/TringComedy/index.m3u8
 #EXTINF:-1,Tring Tring
@@ -99,12 +89,8 @@ http://93.157.62.180/TringWorld/index.m3u8
 http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:-1,Tring Sport 2
 http://93.157.62.180/TringSport2HD/index.m3u8
-#EXTINF:-1,Fax News
-http://93.157.62.180/FaxNews/index.m3u8
 #EXTINF:-1,Tring International
 http://93.157.62.180/TringInternational/index.m3u8
-#EXTINF:-1,In Tv
-http://93.157.62.180/INTV/index.m3u8
 #EXTINF:-1,Klan Kosova
 http://93.157.62.180/KlanKosova/index.m3u8
 #EXTINF:1,Abc News
@@ -128,17 +114,15 @@ http://93.157.62.180/RTV21/index.m3u8
 #EXTINF:-1,Report Tv
 http://93.157.62.180/ReportTV/index.m3u8
 #EXTINF:-1,3 Plus
-http://93.157.62.180/3Plus/index.m3u8
-#EXTINF:-1,Jolly
+http://62.210.152.92:25461/kanale2/Ass/57
+#EXTINF:-1,Cufo
 http://93.157.62.180/JollyHD/index.m3u8
+#EXTINF:-1,Jolly HD
+http://62.210.152.92:25461/kanale2/Ass/56
 #EXTINF:-1,Living
 http://93.157.62.180/LivingHD/index.m3u8
-#EXTINF:-1,Dasma Tv
-http://93.157.62.180/DasmaTV/index.m3u8
 #EXTINF:-1,Elrodi Tv
 http://93.157.62.180/ElrodiTV/index.m3u8
-#EXTINF:-1,Adria Net
-http://93.157.62.180/AdriaNet/index.m3u8
 #EXTINF:-1,Tv Mitrovica
 http://93.157.62.180/TVMitrovica/index.m3u8
 #EXTINF:-1,Tv Prizreni
